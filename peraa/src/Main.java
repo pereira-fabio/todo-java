@@ -4,7 +4,8 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ToDoList toDoList = new ToDoList();
-
+        // TODO: add the tasks to a save file and load them
+        // TODO: deployable
         // Main menu
         while (true) {
             System.out.println("1. Add Task");
